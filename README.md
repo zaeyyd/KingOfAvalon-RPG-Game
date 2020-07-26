@@ -1,7 +1,7 @@
 # KingOfAvalon-RPG
 A text-based RPG game that I developed in high school with Java.
 
-![Screenshot of game](media/game.png)
+![Screenshot of game](media/gameSC.png)
 
 ## Gameplay:
 ### 1) Beginning
